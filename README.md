@@ -1,2 +1,2 @@
 # MachineLearning2023
-تمرین های مربوط به درس مبانی سیستم های هوشمند دکتر علیاری
+This section is related to the lesson on the basics of intelligent systems and I'll put my exercises related to it in this section.
